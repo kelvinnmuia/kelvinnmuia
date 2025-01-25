@@ -20,4 +20,4 @@ I’m a fullstack software engineer with a strong background in IT infrastructur
 
 ## My GitHub Stats
 
-<a href="http://www.github.com/kelvinnmuia"><img src="https://github-readme-stats.vercel.app/api?username=kelvinnmuia&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="kelvinnmuia's GitHub stats" /></a>
+<a href="http://www.github.com/kelvinnmuia"><img src="https://github-readme-stats.vercel.app/api?username=kelvinnmuia&show_icons=true&hide=contribs&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="kelvinnmuia's GitHub stats" /></a>
