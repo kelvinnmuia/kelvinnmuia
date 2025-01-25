@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer | IT Specialist
 ---------------------------------
 
-🔭 What I Do: I’m a fullstack software engineer with a strong background in IT infrastructure and a growing focus on AI/ML technologies. I specialize in designing and building scalable, intelligent software products that solve real-world problems. My experience in IT operations, combined with my software engineering expertise, allows me to create solutions that are not only innovative but also secure and highly performant.
+## 🔭 What I Do: 
+
+I’m a fullstack software engineer with a strong background in IT infrastructure and a growing focus on AI/ML technologies. I specialize in designing and building scalable, intelligent software products that solve real-world problems. My experience in IT operations, combined with my software engineering expertise, allows me to create solutions that are not only innovative but also secure and highly performant.
 
 * 🌍  I'm based in Nairobi, KEN
 * 🧠  I'm learning Learning LangChain to develop AI-powered solutions that add real value to businesses.
