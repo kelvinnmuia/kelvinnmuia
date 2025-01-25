@@ -10,7 +10,7 @@ I’m a fullstack software engineer with a strong background in IT infrastructur
 * 🌍  I'm based in Nairobi, KEN
 * 🧠  I'm learning Learning LangChain to develop AI-powered solutions that add real value to businesses.
 
-### Skills
+## Skills
 
 
 <p align="left">
